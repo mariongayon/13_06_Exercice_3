@@ -1,0 +1,16 @@
+C:\Users\Administrateur\source\repos\13_06_Exercice_3\Netflix\bin\Debug\net5.0\Netflix.exe
+C:\Users\Administrateur\source\repos\13_06_Exercice_3\Netflix\bin\Debug\net5.0\Netflix.deps.json
+C:\Users\Administrateur\source\repos\13_06_Exercice_3\Netflix\bin\Debug\net5.0\Netflix.runtimeconfig.json
+C:\Users\Administrateur\source\repos\13_06_Exercice_3\Netflix\bin\Debug\net5.0\Netflix.runtimeconfig.dev.json
+C:\Users\Administrateur\source\repos\13_06_Exercice_3\Netflix\bin\Debug\net5.0\Netflix.dll
+C:\Users\Administrateur\source\repos\13_06_Exercice_3\Netflix\bin\Debug\net5.0\ref\Netflix.dll
+C:\Users\Administrateur\source\repos\13_06_Exercice_3\Netflix\bin\Debug\net5.0\Netflix.pdb
+C:\Users\Administrateur\source\repos\13_06_Exercice_3\Netflix\obj\Debug\net5.0\Netflix.csproj.AssemblyReference.cache
+C:\Users\Administrateur\source\repos\13_06_Exercice_3\Netflix\obj\Debug\net5.0\Netflix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\source\repos\13_06_Exercice_3\Netflix\obj\Debug\net5.0\Netflix.AssemblyInfoInputs.cache
+C:\Users\Administrateur\source\repos\13_06_Exercice_3\Netflix\obj\Debug\net5.0\Netflix.AssemblyInfo.cs
+C:\Users\Administrateur\source\repos\13_06_Exercice_3\Netflix\obj\Debug\net5.0\Netflix.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\source\repos\13_06_Exercice_3\Netflix\obj\Debug\net5.0\Netflix.dll
+C:\Users\Administrateur\source\repos\13_06_Exercice_3\Netflix\obj\Debug\net5.0\ref\Netflix.dll
+C:\Users\Administrateur\source\repos\13_06_Exercice_3\Netflix\obj\Debug\net5.0\Netflix.pdb
+C:\Users\Administrateur\source\repos\13_06_Exercice_3\Netflix\obj\Debug\net5.0\Netflix.genruntimeconfig.cache
